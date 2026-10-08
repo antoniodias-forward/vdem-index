@@ -2,6 +2,7 @@
   {
     "country": "Modena",
     "iso3": "MDN",
+    "mapId": null,
     "year": 1859,
     "v2x_polyarchy": 0.038,
     "v2x_libdem": null,
@@ -12,6 +13,7 @@
   {
     "country": "Parma",
     "iso3": "PRM",
+    "mapId": null,
     "year": 1859,
     "v2x_polyarchy": 0.043,
     "v2x_libdem": 0.127,
@@ -22,6 +24,7 @@
   {
     "country": "Two Sicilies",
     "iso3": "TWS",
+    "mapId": null,
     "year": 1860,
     "v2x_polyarchy": 0.012,
     "v2x_libdem": null,
@@ -32,6 +35,7 @@
   {
     "country": "Tuscany",
     "iso3": "TSC",
+    "mapId": null,
     "year": 1861,
     "v2x_polyarchy": 0.126,
     "v2x_libdem": 0.108,
@@ -42,6 +46,7 @@
   {
     "country": "Piedmont-Sardinia",
     "iso3": "SPD",
+    "mapId": null,
     "year": 1861,
     "v2x_polyarchy": 0.212,
     "v2x_libdem": 0.137,
@@ -52,6 +57,7 @@
   {
     "country": "Hesse-Kassel",
     "iso3": "HKS",
+    "mapId": null,
     "year": 1866,
     "v2x_polyarchy": 0.113,
     "v2x_libdem": null,
@@ -62,6 +68,7 @@
   {
     "country": "Hanover",
     "iso3": "HVR",
+    "mapId": null,
     "year": 1866,
     "v2x_polyarchy": 0.132,
     "v2x_libdem": 0.113,
@@ -72,6 +79,7 @@
   {
     "country": "Nassau",
     "iso3": "NSS",
+    "mapId": null,
     "year": 1866,
     "v2x_polyarchy": 0.188,
     "v2x_libdem": 0.211,
@@ -82,6 +90,7 @@
   {
     "country": "Saxony",
     "iso3": "SXN",
+    "mapId": null,
     "year": 1867,
     "v2x_polyarchy": 0.139,
     "v2x_libdem": 0.137,
@@ -92,6 +101,7 @@
   {
     "country": "Mecklenburg Schwerin",
     "iso3": "MCL",
+    "mapId": null,
     "year": 1867,
     "v2x_polyarchy": 0.101,
     "v2x_libdem": 0.163,
@@ -102,6 +112,7 @@
   {
     "country": "Hamburg",
     "iso3": "HRG",
+    "mapId": null,
     "year": 1867,
     "v2x_polyarchy": 0.191,
     "v2x_libdem": null,
@@ -112,6 +123,7 @@
   {
     "country": "Saxe-Weimar-Eisenach",
     "iso3": "SAX",
+    "mapId": null,
     "year": 1867,
     "v2x_polyarchy": 0.072,
     "v2x_libdem": 0.1,
@@ -122,6 +134,7 @@
   {
     "country": "Oldenburg",
     "iso3": "OLD",
+    "mapId": null,
     "year": 1867,
     "v2x_polyarchy": 0.254,
     "v2x_libdem": 0.139,
@@ -132,6 +145,7 @@
   {
     "country": "Brunswick",
     "iso3": "BRW",
+    "mapId": null,
     "year": 1867,
     "v2x_polyarchy": 0.186,
     "v2x_libdem": 0.188,
@@ -142,6 +156,7 @@
   {
     "country": "Papal States",
     "iso3": "PPS",
+    "mapId": null,
     "year": 1870,
     "v2x_polyarchy": 0.026,
     "v2x_libdem": 0.027,
@@ -152,6 +167,7 @@
   {
     "country": "Würtemberg",
     "iso3": "WRG",
+    "mapId": null,
     "year": 1871,
     "v2x_polyarchy": 0.2,
     "v2x_libdem": 0.141,
@@ -162,6 +178,7 @@
   {
     "country": "Bavaria",
     "iso3": "BVR",
+    "mapId": null,
     "year": 1871,
     "v2x_polyarchy": 0.167,
     "v2x_libdem": null,
@@ -172,6 +189,7 @@
   {
     "country": "Hesse-Darmstadt",
     "iso3": "HDM",
+    "mapId": null,
     "year": 1871,
     "v2x_polyarchy": 0.183,
     "v2x_libdem": 0.172,
@@ -182,6 +200,7 @@
   {
     "country": "Baden",
     "iso3": "BDN",
+    "mapId": null,
     "year": 1871,
     "v2x_polyarchy": 0.246,
     "v2x_libdem": null,
@@ -192,6 +211,7 @@
   {
     "country": "Palestine/British Mandate",
     "iso3": "PSB",
+    "mapId": null,
     "year": 1948,
     "v2x_polyarchy": 0.08,
     "v2x_libdem": 0.099,
@@ -202,6 +222,7 @@
   {
     "country": "Republic of Vietnam",
     "iso3": "VDR",
+    "mapId": null,
     "year": 1975,
     "v2x_polyarchy": 0.315,
     "v2x_libdem": 0.196,
@@ -212,6 +233,7 @@
   {
     "country": "South Yemen",
     "iso3": "YMD",
+    "mapId": null,
     "year": 1990,
     "v2x_polyarchy": 0.132,
     "v2x_libdem": 0.093,
@@ -222,6 +244,7 @@
   {
     "country": "German Democratic Republic",
     "iso3": "DDR",
+    "mapId": null,
     "year": 1990,
     "v2x_polyarchy": 0.707,
     "v2x_libdem": 0.538,
@@ -232,6 +255,7 @@
   {
     "country": "United Kingdom",
     "iso3": "GBR",
+    "mapId": "826",
     "year": 2025,
     "v2x_polyarchy": 0.772,
     "v2x_libdem": 0.689,
@@ -242,6 +266,7 @@
   {
     "country": "Nepal",
     "iso3": "NPL",
+    "mapId": "524",
     "year": 2025,
     "v2x_polyarchy": 0.656,
     "v2x_libdem": 0.505,
@@ -252,6 +277,7 @@
   {
     "country": "South Korea",
     "iso3": "KOR",
+    "mapId": "410",
     "year": 2025,
     "v2x_polyarchy": 0.819,
     "v2x_libdem": 0.739,
@@ -262,6 +288,7 @@
   {
     "country": "Germany",
     "iso3": "DEU",
+    "mapId": "276",
     "year": 2025,
     "v2x_polyarchy": 0.828,
     "v2x_libdem": 0.782,
@@ -272,6 +299,7 @@
   {
     "country": "Guatemala",
     "iso3": "GTM",
+    "mapId": "320",
     "year": 2025,
     "v2x_polyarchy": 0.637,
     "v2x_libdem": 0.523,
@@ -282,6 +310,7 @@
   {
     "country": "Dominican Republic",
     "iso3": "DOM",
+    "mapId": "214",
     "year": 2025,
     "v2x_polyarchy": 0.735,
     "v2x_libdem": 0.505,
@@ -292,6 +321,7 @@
   {
     "country": "Malaysia",
     "iso3": "MYS",
+    "mapId": "458",
     "year": 2025,
     "v2x_polyarchy": 0.504,
     "v2x_libdem": 0.355,
@@ -302,6 +332,7 @@
   {
     "country": "Tanzania",
     "iso3": "TZA",
+    "mapId": "834",
     "year": 2025,
     "v2x_polyarchy": 0.365,
     "v2x_libdem": 0.297,
@@ -312,6 +343,7 @@
   {
     "country": "Italy",
     "iso3": "ITA",
+    "mapId": "380",
     "year": 2025,
     "v2x_polyarchy": 0.745,
     "v2x_libdem": 0.642,
@@ -322,6 +354,7 @@
   {
     "country": "Afghanistan",
     "iso3": "AFG",
+    "mapId": "004",
     "year": 2025,
     "v2x_polyarchy": 0.069,
     "v2x_libdem": 0.018,
@@ -332,6 +365,7 @@
   {
     "country": "Ukraine",
     "iso3": "UKR",
+    "mapId": "804",
     "year": 2025,
     "v2x_polyarchy": 0.386,
     "v2x_libdem": 0.24,
@@ -342,6 +376,7 @@
   {
     "country": "Romania",
     "iso3": "ROU",
+    "mapId": "642",
     "year": 2025,
     "v2x_polyarchy": 0.605,
     "v2x_libdem": 0.464,
@@ -352,6 +387,7 @@
   {
     "country": "South Africa",
     "iso3": "ZAF",
+    "mapId": "710",
     "year": 2025,
     "v2x_polyarchy": 0.743,
     "v2x_libdem": 0.633,
@@ -362,6 +398,7 @@
   {
     "country": "Honduras",
     "iso3": "HND",
+    "mapId": "340",
     "year": 2025,
     "v2x_polyarchy": 0.511,
     "v2x_libdem": 0.38,
@@ -372,6 +409,7 @@
   {
     "country": "Uruguay",
     "iso3": "URY",
+    "mapId": "858",
     "year": 2025,
     "v2x_polyarchy": 0.862,
     "v2x_libdem": 0.79,
@@ -382,6 +420,7 @@
   {
     "country": "Sao Tome and Principe",
     "iso3": "STP",
+    "mapId": "678",
     "year": 2025,
     "v2x_polyarchy": 0.632,
     "v2x_libdem": 0.519,
@@ -392,6 +431,7 @@
   {
     "country": "Uzbekistan",
     "iso3": "UZB",
+    "mapId": "860",
     "year": 2025,
     "v2x_polyarchy": 0.218,
     "v2x_libdem": 0.079,
@@ -402,6 +442,7 @@
   {
     "country": "Jordan",
     "iso3": "JOR",
+    "mapId": "400",
     "year": 2025,
     "v2x_polyarchy": 0.282,
     "v2x_libdem": 0.274,
@@ -412,6 +453,7 @@
   {
     "country": "Namibia",
     "iso3": "NAM",
+    "mapId": "516",
     "year": 2025,
     "v2x_polyarchy": 0.633,
     "v2x_libdem": 0.519,
@@ -422,6 +464,7 @@
   {
     "country": "Netherlands",
     "iso3": "NLD",
+    "mapId": "528",
     "year": 2025,
     "v2x_polyarchy": 0.832,
     "v2x_libdem": 0.774,
@@ -432,6 +475,7 @@
   {
     "country": "Equatorial Guinea",
     "iso3": "GNQ",
+    "mapId": "226",
     "year": 2025,
     "v2x_polyarchy": 0.172,
     "v2x_libdem": 0.047,
@@ -442,6 +486,7 @@
   {
     "country": "Malta",
     "iso3": "MLT",
+    "mapId": "470",
     "year": 2025,
     "v2x_polyarchy": 0.783,
     "v2x_libdem": 0.621,
@@ -452,6 +497,7 @@
   {
     "country": "Haiti",
     "iso3": "HTI",
+    "mapId": "332",
     "year": 2025,
     "v2x_polyarchy": 0.238,
     "v2x_libdem": 0.098,
@@ -462,6 +508,7 @@
   {
     "country": "Chad",
     "iso3": "TCD",
+    "mapId": "148",
     "year": 2025,
     "v2x_polyarchy": 0.242,
     "v2x_libdem": 0.062,
@@ -472,6 +519,7 @@
   {
     "country": "Barbados",
     "iso3": "BRB",
+    "mapId": "052",
     "year": 2025,
     "v2x_polyarchy": 0.797,
     "v2x_libdem": 0.679,
@@ -482,6 +530,7 @@
   {
     "country": "Panama",
     "iso3": "PAN",
+    "mapId": "591",
     "year": 2025,
     "v2x_polyarchy": 0.728,
     "v2x_libdem": 0.575,
@@ -492,6 +541,7 @@
   {
     "country": "Taiwan",
     "iso3": "TWN",
+    "mapId": "158",
     "year": 2025,
     "v2x_polyarchy": 0.801,
     "v2x_libdem": 0.704,
@@ -502,6 +552,7 @@
   {
     "country": "Belarus",
     "iso3": "BLR",
+    "mapId": "112",
     "year": 2025,
     "v2x_polyarchy": 0.163,
     "v2x_libdem": 0.038,
@@ -512,6 +563,7 @@
   {
     "country": "Rwanda",
     "iso3": "RWA",
+    "mapId": "646",
     "year": 2025,
     "v2x_polyarchy": 0.193,
     "v2x_libdem": 0.09,
@@ -522,6 +574,7 @@
   {
     "country": "Palestine/West Bank",
     "iso3": "PSE",
+    "mapId": "275",
     "year": 2025,
     "v2x_polyarchy": 0.214,
     "v2x_libdem": 0.114,
@@ -532,6 +585,7 @@
   {
     "country": "Burkina Faso",
     "iso3": "BFA",
+    "mapId": "854",
     "year": 2025,
     "v2x_polyarchy": 0.134,
     "v2x_libdem": 0.103,
@@ -542,6 +596,7 @@
   {
     "country": "Hungary",
     "iso3": "HUN",
+    "mapId": "348",
     "year": 2025,
     "v2x_polyarchy": 0.421,
     "v2x_libdem": 0.315,
@@ -552,6 +607,7 @@
   {
     "country": "Brazil",
     "iso3": "BRA",
+    "mapId": "076",
     "year": 2025,
     "v2x_polyarchy": 0.784,
     "v2x_libdem": 0.704,
@@ -562,6 +618,7 @@
   {
     "country": "Zambia",
     "iso3": "ZMB",
+    "mapId": "894",
     "year": 2025,
     "v2x_polyarchy": 0.497,
     "v2x_libdem": 0.375,
@@ -572,6 +629,7 @@
   {
     "country": "Serbia",
     "iso3": "SRB",
+    "mapId": "688",
     "year": 2025,
     "v2x_polyarchy": 0.3,
     "v2x_libdem": 0.208,
@@ -582,6 +640,7 @@
   {
     "country": "Trinidad and Tobago",
     "iso3": "TTO",
+    "mapId": "780",
     "year": 2025,
     "v2x_polyarchy": 0.786,
     "v2x_libdem": 0.668,
@@ -592,6 +651,7 @@
   {
     "country": "Iceland",
     "iso3": "ISL",
+    "mapId": "352",
     "year": 2025,
     "v2x_polyarchy": 0.807,
     "v2x_libdem": 0.72,
@@ -602,6 +662,7 @@
   {
     "country": "Singapore",
     "iso3": "SGP",
+    "mapId": "702",
     "year": 2025,
     "v2x_polyarchy": 0.434,
     "v2x_libdem": 0.36,
@@ -612,6 +673,7 @@
   {
     "country": "Jamaica",
     "iso3": "JAM",
+    "mapId": "388",
     "year": 2025,
     "v2x_polyarchy": 0.805,
     "v2x_libdem": 0.679,
@@ -622,6 +684,7 @@
   {
     "country": "Kazakhstan",
     "iso3": "KAZ",
+    "mapId": "398",
     "year": 2025,
     "v2x_polyarchy": 0.259,
     "v2x_libdem": 0.131,
@@ -632,6 +695,7 @@
   {
     "country": "Australia",
     "iso3": "AUS",
+    "mapId": "036",
     "year": 2025,
     "v2x_polyarchy": 0.844,
     "v2x_libdem": 0.793,
@@ -642,6 +706,7 @@
   {
     "country": "Liberia",
     "iso3": "LBR",
+    "mapId": "430",
     "year": 2025,
     "v2x_polyarchy": 0.597,
     "v2x_libdem": 0.417,
@@ -652,6 +717,7 @@
   {
     "country": "Niger",
     "iso3": "NER",
+    "mapId": "562",
     "year": 2025,
     "v2x_polyarchy": 0.227,
     "v2x_libdem": 0.177,
@@ -662,6 +728,7 @@
   {
     "country": "Ethiopia",
     "iso3": "ETH",
+    "mapId": "231",
     "year": 2025,
     "v2x_polyarchy": 0.257,
     "v2x_libdem": 0.1,
@@ -672,6 +739,7 @@
   {
     "country": "Albania",
     "iso3": "ALB",
+    "mapId": "008",
     "year": 2025,
     "v2x_polyarchy": 0.484,
     "v2x_libdem": 0.382,
@@ -682,6 +750,7 @@
   {
     "country": "India",
     "iso3": "IND",
+    "mapId": "356",
     "year": 2025,
     "v2x_polyarchy": 0.377,
     "v2x_libdem": 0.26,
@@ -692,6 +761,7 @@
   {
     "country": "Israel",
     "iso3": "ISR",
+    "mapId": "376",
     "year": 2025,
     "v2x_polyarchy": 0.694,
     "v2x_libdem": 0.588,
@@ -702,6 +772,7 @@
   {
     "country": "Oman",
     "iso3": "OMN",
+    "mapId": "512",
     "year": 2025,
     "v2x_polyarchy": 0.175,
     "v2x_libdem": 0.14,
@@ -712,6 +783,7 @@
   {
     "country": "Armenia",
     "iso3": "ARM",
+    "mapId": "051",
     "year": 2025,
     "v2x_polyarchy": 0.614,
     "v2x_libdem": 0.371,
@@ -722,6 +794,7 @@
   {
     "country": "Malawi",
     "iso3": "MWI",
+    "mapId": "454",
     "year": 2025,
     "v2x_polyarchy": 0.557,
     "v2x_libdem": 0.462,
@@ -732,6 +805,7 @@
   {
     "country": "Kyrgyzstan",
     "iso3": "KGZ",
+    "mapId": "417",
     "year": 2025,
     "v2x_polyarchy": 0.313,
     "v2x_libdem": 0.178,
@@ -742,6 +816,7 @@
   {
     "country": "Iraq",
     "iso3": "IRQ",
+    "mapId": "368",
     "year": 2025,
     "v2x_polyarchy": 0.369,
     "v2x_libdem": 0.22,
@@ -752,6 +827,7 @@
   {
     "country": "Botswana",
     "iso3": "BWA",
+    "mapId": "072",
     "year": 2025,
     "v2x_polyarchy": 0.665,
     "v2x_libdem": 0.52,
@@ -762,6 +838,7 @@
   {
     "country": "Seychelles",
     "iso3": "SYC",
+    "mapId": "690",
     "year": 2025,
     "v2x_polyarchy": 0.76,
     "v2x_libdem": 0.68,
@@ -772,6 +849,7 @@
   {
     "country": "Czechia",
     "iso3": "CZE",
+    "mapId": "203",
     "year": 2025,
     "v2x_polyarchy": 0.849,
     "v2x_libdem": 0.794,
@@ -782,6 +860,7 @@
   {
     "country": "Belgium",
     "iso3": "BEL",
+    "mapId": "056",
     "year": 2025,
     "v2x_polyarchy": 0.889,
     "v2x_libdem": 0.794,
@@ -792,6 +871,7 @@
   {
     "country": "Bosnia and Herzegovina",
     "iso3": "BIH",
+    "mapId": "070",
     "year": 2025,
     "v2x_polyarchy": 0.498,
     "v2x_libdem": 0.339,
@@ -802,6 +882,7 @@
   {
     "country": "Spain",
     "iso3": "ESP",
+    "mapId": "724",
     "year": 2025,
     "v2x_polyarchy": 0.822,
     "v2x_libdem": 0.741,
@@ -812,6 +893,7 @@
   {
     "country": "Nigeria",
     "iso3": "NGA",
+    "mapId": "566",
     "year": 2025,
     "v2x_polyarchy": 0.505,
     "v2x_libdem": 0.311,
@@ -822,6 +904,7 @@
   {
     "country": "Egypt",
     "iso3": "EGY",
+    "mapId": "818",
     "year": 2025,
     "v2x_polyarchy": 0.187,
     "v2x_libdem": 0.115,
@@ -832,6 +915,7 @@
   {
     "country": "Laos",
     "iso3": "LAO",
+    "mapId": "418",
     "year": 2025,
     "v2x_polyarchy": 0.135,
     "v2x_libdem": 0.11,
@@ -842,6 +926,7 @@
   {
     "country": "Slovakia",
     "iso3": "SVK",
+    "mapId": "703",
     "year": 2025,
     "v2x_polyarchy": 0.733,
     "v2x_libdem": 0.573,
@@ -852,6 +937,7 @@
   {
     "country": "Slovenia",
     "iso3": "SVN",
+    "mapId": "705",
     "year": 2025,
     "v2x_polyarchy": 0.692,
     "v2x_libdem": 0.589,
@@ -862,6 +948,7 @@
   {
     "country": "China",
     "iso3": "CHN",
+    "mapId": "156",
     "year": 2025,
     "v2x_polyarchy": 0.072,
     "v2x_libdem": 0.039,
@@ -872,6 +959,7 @@
   {
     "country": "Bahrain",
     "iso3": "BHR",
+    "mapId": "048",
     "year": 2025,
     "v2x_polyarchy": 0.139,
     "v2x_libdem": 0.062,
@@ -882,6 +970,7 @@
   {
     "country": "Sweden",
     "iso3": "SWE",
+    "mapId": "752",
     "year": 2025,
     "v2x_polyarchy": 0.889,
     "v2x_libdem": 0.853,
@@ -892,6 +981,7 @@
   {
     "country": "Guinea-Bissau",
     "iso3": "GNB",
+    "mapId": "624",
     "year": 2025,
     "v2x_polyarchy": 0.252,
     "v2x_libdem": 0.095,
@@ -902,6 +992,7 @@
   {
     "country": "Mali",
     "iso3": "MLI",
+    "mapId": "466",
     "year": 2025,
     "v2x_polyarchy": 0.164,
     "v2x_libdem": 0.15,
@@ -912,6 +1003,7 @@
   {
     "country": "Angola",
     "iso3": "AGO",
+    "mapId": "024",
     "year": 2025,
     "v2x_polyarchy": 0.344,
     "v2x_libdem": 0.163,
@@ -922,6 +1014,7 @@
   {
     "country": "Kuwait",
     "iso3": "KWT",
+    "mapId": "414",
     "year": 2025,
     "v2x_polyarchy": 0.138,
     "v2x_libdem": 0.127,
@@ -932,6 +1025,7 @@
   {
     "country": "Russia",
     "iso3": "RUS",
+    "mapId": "643",
     "year": 2025,
     "v2x_polyarchy": 0.17,
     "v2x_libdem": 0.056,
@@ -942,6 +1036,7 @@
   {
     "country": "Somaliland",
     "iso3": "SML",
+    "mapId": null,
     "year": 2025,
     "v2x_polyarchy": 0.445,
     "v2x_libdem": 0.297,
@@ -952,6 +1047,7 @@
   {
     "country": "Lithuania",
     "iso3": "LTU",
+    "mapId": "440",
     "year": 2025,
     "v2x_polyarchy": 0.786,
     "v2x_libdem": 0.712,
@@ -962,6 +1058,7 @@
   {
     "country": "Mozambique",
     "iso3": "MOZ",
+    "mapId": "508",
     "year": 2025,
     "v2x_polyarchy": 0.279,
     "v2x_libdem": 0.175,
@@ -972,6 +1069,7 @@
   {
     "country": "Austria",
     "iso3": "AUT",
+    "mapId": "040",
     "year": 2025,
     "v2x_polyarchy": 0.839,
     "v2x_libdem": 0.757,
@@ -982,6 +1080,7 @@
   {
     "country": "Tunisia",
     "iso3": "TUN",
+    "mapId": "788",
     "year": 2025,
     "v2x_polyarchy": 0.395,
     "v2x_libdem": 0.265,
@@ -992,6 +1091,7 @@
   {
     "country": "Canada",
     "iso3": "CAN",
+    "mapId": "124",
     "year": 2025,
     "v2x_polyarchy": 0.84,
     "v2x_libdem": 0.736,
@@ -1002,6 +1102,7 @@
   {
     "country": "Sudan",
     "iso3": "SDN",
+    "mapId": "729",
     "year": 2025,
     "v2x_polyarchy": 0.13,
     "v2x_libdem": 0.034,
@@ -1012,6 +1113,7 @@
   {
     "country": "Syria",
     "iso3": "SYR",
+    "mapId": "760",
     "year": 2025,
     "v2x_polyarchy": 0.128,
     "v2x_libdem": 0.054,
@@ -1022,6 +1124,7 @@
   {
     "country": "El Salvador",
     "iso3": "SLV",
+    "mapId": "222",
     "year": 2025,
     "v2x_polyarchy": 0.321,
     "v2x_libdem": 0.09,
@@ -1032,6 +1135,7 @@
   {
     "country": "Timor-Leste",
     "iso3": "TLS",
+    "mapId": "626",
     "year": 2025,
     "v2x_polyarchy": 0.736,
     "v2x_libdem": 0.549,
@@ -1042,6 +1146,7 @@
   {
     "country": "Cyprus",
     "iso3": "CYP",
+    "mapId": "196",
     "year": 2025,
     "v2x_polyarchy": 0.773,
     "v2x_libdem": 0.664,
@@ -1052,6 +1157,7 @@
   {
     "country": "Indonesia",
     "iso3": "IDN",
+    "mapId": "360",
     "year": 2025,
     "v2x_polyarchy": 0.462,
     "v2x_libdem": 0.296,
@@ -1062,6 +1168,7 @@
   {
     "country": "Hong Kong",
     "iso3": "HKG",
+    "mapId": "344",
     "year": 2025,
     "v2x_polyarchy": 0.151,
     "v2x_libdem": 0.142,
@@ -1072,6 +1179,7 @@
   {
     "country": "Iran",
     "iso3": "IRN",
+    "mapId": "364",
     "year": 2025,
     "v2x_polyarchy": 0.159,
     "v2x_libdem": 0.103,
@@ -1082,6 +1190,7 @@
   {
     "country": "Pakistan",
     "iso3": "PAK",
+    "mapId": "586",
     "year": 2025,
     "v2x_polyarchy": 0.302,
     "v2x_libdem": 0.176,
@@ -1092,6 +1201,7 @@
   {
     "country": "Azerbaijan",
     "iso3": "AZE",
+    "mapId": "031",
     "year": 2025,
     "v2x_polyarchy": 0.171,
     "v2x_libdem": 0.053,
@@ -1102,6 +1212,7 @@
   {
     "country": "Portugal",
     "iso3": "PRT",
+    "mapId": "620",
     "year": 2025,
     "v2x_polyarchy": 0.822,
     "v2x_libdem": 0.717,
@@ -1112,6 +1223,7 @@
   {
     "country": "Maldives",
     "iso3": "MDV",
+    "mapId": "462",
     "year": 2025,
     "v2x_polyarchy": 0.556,
     "v2x_libdem": 0.416,
@@ -1122,6 +1234,7 @@
   {
     "country": "Togo",
     "iso3": "TGO",
+    "mapId": "768",
     "year": 2025,
     "v2x_polyarchy": 0.351,
     "v2x_libdem": 0.157,
@@ -1132,6 +1245,7 @@
   {
     "country": "Libya",
     "iso3": "LBY",
+    "mapId": "434",
     "year": 2025,
     "v2x_polyarchy": 0.193,
     "v2x_libdem": 0.098,
@@ -1142,6 +1256,7 @@
   {
     "country": "Burundi",
     "iso3": "BDI",
+    "mapId": "108",
     "year": 2025,
     "v2x_polyarchy": 0.185,
     "v2x_libdem": 0.06,
@@ -1152,6 +1267,7 @@
   {
     "country": "Sierra Leone",
     "iso3": "SLE",
+    "mapId": "694",
     "year": 2025,
     "v2x_polyarchy": 0.471,
     "v2x_libdem": 0.348,
@@ -1162,6 +1278,7 @@
   {
     "country": "Tajikistan",
     "iso3": "TJK",
+    "mapId": "762",
     "year": 2025,
     "v2x_polyarchy": 0.158,
     "v2x_libdem": 0.043,
@@ -1172,6 +1289,7 @@
   {
     "country": "New Zealand",
     "iso3": "NZL",
+    "mapId": "554",
     "year": 2025,
     "v2x_polyarchy": 0.849,
     "v2x_libdem": 0.787,
@@ -1182,6 +1300,7 @@
   {
     "country": "Lebanon",
     "iso3": "LBN",
+    "mapId": "422",
     "year": 2025,
     "v2x_polyarchy": 0.419,
     "v2x_libdem": 0.267,
@@ -1192,6 +1311,7 @@
   {
     "country": "Eswatini",
     "iso3": "SWZ",
+    "mapId": "748",
     "year": 2025,
     "v2x_polyarchy": 0.128,
     "v2x_libdem": 0.097,
@@ -1202,6 +1322,7 @@
   {
     "country": "Yemen",
     "iso3": "YEM",
+    "mapId": "887",
     "year": 2025,
     "v2x_polyarchy": 0.127,
     "v2x_libdem": 0.043,
@@ -1212,6 +1333,7 @@
   {
     "country": "The Gambia",
     "iso3": "GMB",
+    "mapId": "270",
     "year": 2025,
     "v2x_polyarchy": 0.641,
     "v2x_libdem": 0.522,
@@ -1222,6 +1344,7 @@
   {
     "country": "Türkiye",
     "iso3": "TUR",
+    "mapId": "792",
     "year": 2025,
     "v2x_polyarchy": 0.293,
     "v2x_libdem": 0.11,
@@ -1232,6 +1355,7 @@
   {
     "country": "Democratic Republic of the Congo",
     "iso3": "COD",
+    "mapId": "180",
     "year": 2025,
     "v2x_polyarchy": 0.306,
     "v2x_libdem": 0.115,
@@ -1242,6 +1366,7 @@
   {
     "country": "Mauritania",
     "iso3": "MRT",
+    "mapId": "478",
     "year": 2025,
     "v2x_polyarchy": 0.328,
     "v2x_libdem": 0.127,
@@ -1252,6 +1377,7 @@
   {
     "country": "Saudi Arabia",
     "iso3": "SAU",
+    "mapId": "682",
     "year": 2025,
     "v2x_polyarchy": 0.016,
     "v2x_libdem": 0.047,
@@ -1262,6 +1388,7 @@
   {
     "country": "Benin",
     "iso3": "BEN",
+    "mapId": "204",
     "year": 2025,
     "v2x_polyarchy": 0.493,
     "v2x_libdem": 0.323,
@@ -1272,6 +1399,7 @@
   {
     "country": "Latvia",
     "iso3": "LVA",
+    "mapId": "428",
     "year": 2025,
     "v2x_polyarchy": 0.834,
     "v2x_libdem": 0.751,
@@ -1282,6 +1410,7 @@
   {
     "country": "Bangladesh",
     "iso3": "BGD",
+    "mapId": "050",
     "year": 2025,
     "v2x_polyarchy": 0.195,
     "v2x_libdem": 0.116,
@@ -1292,6 +1421,7 @@
   {
     "country": "Argentina",
     "iso3": "ARG",
+    "mapId": "032",
     "year": 2025,
     "v2x_polyarchy": 0.69,
     "v2x_libdem": 0.524,
@@ -1302,6 +1432,7 @@
   {
     "country": "Lesotho",
     "iso3": "LSO",
+    "mapId": "426",
     "year": 2025,
     "v2x_polyarchy": 0.661,
     "v2x_libdem": 0.512,
@@ -1312,6 +1443,7 @@
   {
     "country": "Ecuador",
     "iso3": "ECU",
+    "mapId": "218",
     "year": 2025,
     "v2x_polyarchy": 0.607,
     "v2x_libdem": 0.386,
@@ -1322,6 +1454,7 @@
   {
     "country": "Switzerland",
     "iso3": "CHE",
+    "mapId": "756",
     "year": 2025,
     "v2x_polyarchy": 0.882,
     "v2x_libdem": 0.843,
@@ -1332,6 +1465,7 @@
   {
     "country": "Montenegro",
     "iso3": "MNE",
+    "mapId": "499",
     "year": 2025,
     "v2x_polyarchy": 0.636,
     "v2x_libdem": 0.5,
@@ -1342,6 +1476,7 @@
   {
     "country": "Turkmenistan",
     "iso3": "TKM",
+    "mapId": "795",
     "year": 2025,
     "v2x_polyarchy": 0.148,
     "v2x_libdem": 0.034,
@@ -1352,6 +1487,7 @@
   {
     "country": "Palestine/Gaza",
     "iso3": "PSG",
+    "mapId": null,
     "year": 2025,
     "v2x_polyarchy": 0.128,
     "v2x_libdem": 0.058,
@@ -1362,6 +1498,7 @@
   {
     "country": "Cuba",
     "iso3": "CUB",
+    "mapId": "192",
     "year": 2025,
     "v2x_polyarchy": 0.176,
     "v2x_libdem": 0.057,
@@ -1372,6 +1509,7 @@
   {
     "country": "Burma/Myanmar",
     "iso3": "MMR",
+    "mapId": "104",
     "year": 2025,
     "v2x_polyarchy": 0.08,
     "v2x_libdem": 0.015,
@@ -1382,6 +1520,7 @@
   {
     "country": "Philippines",
     "iso3": "PHL",
+    "mapId": "608",
     "year": 2025,
     "v2x_polyarchy": 0.392,
     "v2x_libdem": 0.291,
@@ -1392,6 +1531,7 @@
   {
     "country": "Venezuela",
     "iso3": "VEN",
+    "mapId": "862",
     "year": 2025,
     "v2x_polyarchy": 0.181,
     "v2x_libdem": 0.042,
@@ -1402,6 +1542,7 @@
   {
     "country": "Georgia",
     "iso3": "GEO",
+    "mapId": "268",
     "year": 2025,
     "v2x_polyarchy": 0.401,
     "v2x_libdem": 0.275,
@@ -1412,6 +1553,7 @@
   {
     "country": "Bulgaria",
     "iso3": "BGR",
+    "mapId": "100",
     "year": 2025,
     "v2x_polyarchy": 0.599,
     "v2x_libdem": 0.499,
@@ -1422,6 +1564,7 @@
   {
     "country": "Eritrea",
     "iso3": "ERI",
+    "mapId": "232",
     "year": 2025,
     "v2x_polyarchy": 0.069,
     "v2x_libdem": 0.009,
@@ -1432,6 +1575,7 @@
   {
     "country": "Gabon",
     "iso3": "GAB",
+    "mapId": "266",
     "year": 2025,
     "v2x_polyarchy": 0.302,
     "v2x_libdem": 0.178,
@@ -1442,6 +1586,7 @@
   {
     "country": "Ivory Coast",
     "iso3": "CIV",
+    "mapId": "384",
     "year": 2025,
     "v2x_polyarchy": 0.394,
     "v2x_libdem": 0.228,
@@ -1452,6 +1597,7 @@
   {
     "country": "Vietnam",
     "iso3": "VNM",
+    "mapId": "704",
     "year": 2025,
     "v2x_polyarchy": 0.146,
     "v2x_libdem": 0.102,
@@ -1462,6 +1608,7 @@
   {
     "country": "Algeria",
     "iso3": "DZA",
+    "mapId": "012",
     "year": 2025,
     "v2x_polyarchy": 0.265,
     "v2x_libdem": 0.126,
@@ -1472,6 +1619,7 @@
   {
     "country": "Japan",
     "iso3": "JPN",
+    "mapId": "392",
     "year": 2025,
     "v2x_polyarchy": 0.819,
     "v2x_libdem": 0.734,
@@ -1482,6 +1630,7 @@
   {
     "country": "North Macedonia",
     "iso3": "MKD",
+    "mapId": "807",
     "year": 2025,
     "v2x_polyarchy": 0.562,
     "v2x_libdem": 0.374,
@@ -1492,6 +1641,7 @@
   {
     "country": "Bolivia",
     "iso3": "BOL",
+    "mapId": "068",
     "year": 2025,
     "v2x_polyarchy": 0.605,
     "v2x_libdem": 0.352,
@@ -1502,6 +1652,7 @@
   {
     "country": "Luxembourg",
     "iso3": "LUX",
+    "mapId": "442",
     "year": 2025,
     "v2x_polyarchy": 0.869,
     "v2x_libdem": 0.777,
@@ -1512,6 +1663,7 @@
   {
     "country": "Ireland",
     "iso3": "IRL",
+    "mapId": "372",
     "year": 2025,
     "v2x_polyarchy": 0.887,
     "v2x_libdem": 0.822,
@@ -1522,6 +1674,7 @@
   {
     "country": "France",
     "iso3": "FRA",
+    "mapId": "250",
     "year": 2025,
     "v2x_polyarchy": 0.865,
     "v2x_libdem": 0.8,
@@ -1532,6 +1685,7 @@
   {
     "country": "Colombia",
     "iso3": "COL",
+    "mapId": "170",
     "year": 2025,
     "v2x_polyarchy": 0.679,
     "v2x_libdem": 0.555,
@@ -1542,6 +1696,7 @@
   {
     "country": "Denmark",
     "iso3": "DNK",
+    "mapId": "208",
     "year": 2025,
     "v2x_polyarchy": 0.913,
     "v2x_libdem": 0.884,
@@ -1552,6 +1707,7 @@
   {
     "country": "South Sudan",
     "iso3": "SSD",
+    "mapId": "728",
     "year": 2025,
     "v2x_polyarchy": 0.133,
     "v2x_libdem": 0.064,
@@ -1562,6 +1718,7 @@
   {
     "country": "Vanuatu",
     "iso3": "VUT",
+    "mapId": "548",
     "year": 2025,
     "v2x_polyarchy": 0.729,
     "v2x_libdem": 0.623,
@@ -1572,6 +1729,7 @@
   {
     "country": "Kenya",
     "iso3": "KEN",
+    "mapId": "404",
     "year": 2025,
     "v2x_polyarchy": 0.563,
     "v2x_libdem": 0.446,
@@ -1582,6 +1740,7 @@
   {
     "country": "Solomon Islands",
     "iso3": "SLB",
+    "mapId": "090",
     "year": 2025,
     "v2x_polyarchy": 0.696,
     "v2x_libdem": 0.539,
@@ -1592,6 +1751,7 @@
   {
     "country": "Guyana",
     "iso3": "GUY",
+    "mapId": "328",
     "year": 2025,
     "v2x_polyarchy": 0.515,
     "v2x_libdem": 0.328,
@@ -1602,6 +1762,7 @@
   {
     "country": "Cambodia",
     "iso3": "KHM",
+    "mapId": "116",
     "year": 2025,
     "v2x_polyarchy": 0.183,
     "v2x_libdem": 0.051,
@@ -1612,6 +1773,7 @@
   {
     "country": "Qatar",
     "iso3": "QAT",
+    "mapId": "634",
     "year": 2025,
     "v2x_polyarchy": 0.034,
     "v2x_libdem": 0.091,
@@ -1622,6 +1784,7 @@
   {
     "country": "Sri Lanka",
     "iso3": "LKA",
+    "mapId": "144",
     "year": 2025,
     "v2x_polyarchy": 0.783,
     "v2x_libdem": 0.613,
@@ -1632,6 +1795,7 @@
   {
     "country": "Greece",
     "iso3": "GRC",
+    "mapId": "300",
     "year": 2025,
     "v2x_polyarchy": 0.741,
     "v2x_libdem": 0.568,
@@ -1642,6 +1806,7 @@
   {
     "country": "Costa Rica",
     "iso3": "CRI",
+    "mapId": "188",
     "year": 2025,
     "v2x_polyarchy": 0.862,
     "v2x_libdem": 0.809,
@@ -1652,6 +1817,7 @@
   {
     "country": "Mongolia",
     "iso3": "MNG",
+    "mapId": "496",
     "year": 2025,
     "v2x_polyarchy": 0.535,
     "v2x_libdem": 0.424,
@@ -1662,6 +1828,7 @@
   {
     "country": "United Arab Emirates",
     "iso3": "ARE",
+    "mapId": "784",
     "year": 2025,
     "v2x_polyarchy": 0.104,
     "v2x_libdem": 0.077,
@@ -1672,6 +1839,7 @@
   {
     "country": "Moldova",
     "iso3": "MDA",
+    "mapId": "498",
     "year": 2025,
     "v2x_polyarchy": 0.553,
     "v2x_libdem": 0.449,
@@ -1682,6 +1850,7 @@
   {
     "country": "Uganda",
     "iso3": "UGA",
+    "mapId": "800",
     "year": 2025,
     "v2x_polyarchy": 0.253,
     "v2x_libdem": 0.165,
@@ -1692,6 +1861,7 @@
   {
     "country": "Paraguay",
     "iso3": "PRY",
+    "mapId": "600",
     "year": 2025,
     "v2x_polyarchy": 0.581,
     "v2x_libdem": 0.376,
@@ -1702,6 +1872,7 @@
   {
     "country": "Poland",
     "iso3": "POL",
+    "mapId": "616",
     "year": 2025,
     "v2x_polyarchy": 0.768,
     "v2x_libdem": 0.645,
@@ -1712,6 +1883,7 @@
   {
     "country": "Zanzibar",
     "iso3": "ZZB",
+    "mapId": null,
     "year": 2025,
     "v2x_polyarchy": 0.309,
     "v2x_libdem": 0.253,
@@ -1722,6 +1894,7 @@
   {
     "country": "Cape Verde",
     "iso3": "CPV",
+    "mapId": "132",
     "year": 2025,
     "v2x_polyarchy": 0.745,
     "v2x_libdem": 0.631,
@@ -1732,6 +1905,7 @@
   {
     "country": "United States of America",
     "iso3": "USA",
+    "mapId": "840",
     "year": 2025,
     "v2x_polyarchy": 0.735,
     "v2x_libdem": 0.571,
@@ -1742,6 +1916,7 @@
   {
     "country": "Madagascar",
     "iso3": "MDG",
+    "mapId": "450",
     "year": 2025,
     "v2x_polyarchy": 0.361,
     "v2x_libdem": 0.187,
@@ -1752,6 +1927,7 @@
   {
     "country": "Bhutan",
     "iso3": "BTN",
+    "mapId": "064",
     "year": 2025,
     "v2x_polyarchy": 0.566,
     "v2x_libdem": 0.457,
@@ -1762,6 +1938,7 @@
   {
     "country": "Papua New Guinea",
     "iso3": "PNG",
+    "mapId": "598",
     "year": 2025,
     "v2x_polyarchy": 0.467,
     "v2x_libdem": 0.384,
@@ -1772,6 +1949,7 @@
   {
     "country": "Thailand",
     "iso3": "THA",
+    "mapId": "764",
     "year": 2025,
     "v2x_polyarchy": 0.424,
     "v2x_libdem": 0.314,
@@ -1782,6 +1960,7 @@
   {
     "country": "Senegal",
     "iso3": "SEN",
+    "mapId": "686",
     "year": 2025,
     "v2x_polyarchy": 0.633,
     "v2x_libdem": 0.484,
@@ -1792,6 +1971,7 @@
   {
     "country": "North Korea",
     "iso3": "PRK",
+    "mapId": "408",
     "year": 2025,
     "v2x_polyarchy": 0.083,
     "v2x_libdem": 0.014,
@@ -1802,6 +1982,7 @@
   {
     "country": "Chile",
     "iso3": "CHL",
+    "mapId": "152",
     "year": 2025,
     "v2x_polyarchy": 0.839,
     "v2x_libdem": 0.781,
@@ -1812,6 +1993,7 @@
   {
     "country": "Estonia",
     "iso3": "EST",
+    "mapId": "233",
     "year": 2025,
     "v2x_polyarchy": 0.887,
     "v2x_libdem": 0.837,
@@ -1822,6 +2004,7 @@
   {
     "country": "Finland",
     "iso3": "FIN",
+    "mapId": "246",
     "year": 2025,
     "v2x_polyarchy": 0.852,
     "v2x_libdem": 0.808,
@@ -1832,6 +2015,7 @@
   {
     "country": "Suriname",
     "iso3": "SUR",
+    "mapId": "740",
     "year": 2025,
     "v2x_polyarchy": 0.781,
     "v2x_libdem": 0.626,
@@ -1842,6 +2026,7 @@
   {
     "country": "Norway",
     "iso3": "NOR",
+    "mapId": "578",
     "year": 2025,
     "v2x_polyarchy": 0.89,
     "v2x_libdem": 0.847,
@@ -1852,6 +2037,7 @@
   {
     "country": "Peru",
     "iso3": "PER",
+    "mapId": "604",
     "year": 2025,
     "v2x_polyarchy": 0.667,
     "v2x_libdem": 0.506,
@@ -1862,6 +2048,7 @@
   {
     "country": "Republic of the Congo",
     "iso3": "COG",
+    "mapId": "178",
     "year": 2025,
     "v2x_polyarchy": 0.243,
     "v2x_libdem": 0.115,
@@ -1872,6 +2059,7 @@
   {
     "country": "Zimbabwe",
     "iso3": "ZWE",
+    "mapId": "716",
     "year": 2025,
     "v2x_polyarchy": 0.268,
     "v2x_libdem": 0.147,
@@ -1882,6 +2070,7 @@
   {
     "country": "Kosovo",
     "iso3": "XKX",
+    "mapId": null,
     "year": 2025,
     "v2x_polyarchy": 0.631,
     "v2x_libdem": 0.457,
@@ -1892,6 +2081,7 @@
   {
     "country": "Djibouti",
     "iso3": "DJI",
+    "mapId": "262",
     "year": 2025,
     "v2x_polyarchy": 0.25,
     "v2x_libdem": 0.118,
@@ -1902,6 +2092,7 @@
   {
     "country": "Cameroon",
     "iso3": "CMR",
+    "mapId": "120",
     "year": 2025,
     "v2x_polyarchy": 0.26,
     "v2x_libdem": 0.114,
@@ -1912,6 +2103,7 @@
   {
     "country": "Mexico",
     "iso3": "MEX",
+    "mapId": "484",
     "year": 2025,
     "v2x_polyarchy": 0.469,
     "v2x_libdem": 0.221,
@@ -1922,6 +2114,7 @@
   {
     "country": "Mauritius",
     "iso3": "MUS",
+    "mapId": "480",
     "year": 2025,
     "v2x_polyarchy": 0.738,
     "v2x_libdem": 0.639,
@@ -1932,6 +2125,7 @@
   {
     "country": "Nicaragua",
     "iso3": "NIC",
+    "mapId": "558",
     "year": 2025,
     "v2x_polyarchy": 0.151,
     "v2x_libdem": 0.019,
@@ -1942,6 +2136,7 @@
   {
     "country": "Central African Republic",
     "iso3": "CAF",
+    "mapId": "140",
     "year": 2025,
     "v2x_polyarchy": 0.293,
     "v2x_libdem": 0.102,
@@ -1952,6 +2147,7 @@
   {
     "country": "Fiji",
     "iso3": "FJI",
+    "mapId": "242",
     "year": 2025,
     "v2x_polyarchy": 0.507,
     "v2x_libdem": 0.398,
@@ -1962,6 +2158,7 @@
   {
     "country": "Guinea",
     "iso3": "GIN",
+    "mapId": "324",
     "year": 2025,
     "v2x_polyarchy": 0.187,
     "v2x_libdem": 0.095,
@@ -1972,6 +2169,7 @@
   {
     "country": "Croatia",
     "iso3": "HRV",
+    "mapId": "191",
     "year": 2025,
     "v2x_polyarchy": 0.686,
     "v2x_libdem": 0.593,
@@ -1982,6 +2180,7 @@
   {
     "country": "Comoros",
     "iso3": "COM",
+    "mapId": "174",
     "year": 2025,
     "v2x_polyarchy": 0.293,
     "v2x_libdem": 0.132,
@@ -1992,6 +2191,7 @@
   {
     "country": "Ghana",
     "iso3": "GHA",
+    "mapId": "288",
     "year": 2025,
     "v2x_polyarchy": 0.711,
     "v2x_libdem": 0.606,
@@ -2002,6 +2202,7 @@
   {
     "country": "Morocco",
     "iso3": "MAR",
+    "mapId": "504",
     "year": 2025,
     "v2x_polyarchy": 0.259,
     "v2x_libdem": 0.251,
@@ -2012,6 +2213,7 @@
   {
     "country": "Somalia",
     "iso3": "SOM",
+    "mapId": "706",
     "year": 2025,
     "v2x_polyarchy": 0.165,
     "v2x_libdem": 0.128,
