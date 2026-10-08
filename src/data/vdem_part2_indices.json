@@ -1,0 +1,132 @@
+[
+  {
+    "key": "v2x_polyarchy",
+    "label": "Electoral democracy index",
+    "section": "2.1.1"
+  },
+  {
+    "key": "v2x_libdem",
+    "label": "Liberal democracy index",
+    "section": "2.1.2"
+  },
+  {
+    "key": "v2x_partipdem",
+    "label": "Participatory democracy index",
+    "section": "2.1.3"
+  },
+  {
+    "key": "v2x_delibdem",
+    "label": "Deliberative democracy index",
+    "section": "2.1.4"
+  },
+  {
+    "key": "v2x_egaldem",
+    "label": "Egalitarian democracy index",
+    "section": "2.1.5"
+  },
+  {
+    "key": "v2x_api",
+    "label": "Additive polyarchy index",
+    "section": "2.2.1"
+  },
+  {
+    "key": "v2x_mpi",
+    "label": "Multiplicative polyarchy index",
+    "section": "2.2.2"
+  },
+  {
+    "key": "v2x_freexp_altinf",
+    "label": "Freedom of Expression and Alternative Sources of Information index",
+    "section": "2.2.3"
+  },
+  {
+    "key": "v2x_frassoc_thick",
+    "label": "Freedom of association thick index",
+    "section": "2.2.4"
+  },
+  {
+    "key": "v2x_suffr",
+    "label": "Share of population with suffrage",
+    "section": "2.2.5"
+  },
+  {
+    "key": "v2xel_frefair",
+    "label": "Clean elections index",
+    "section": "2.2.6"
+  },
+  {
+    "key": "v2x_elecoff",
+    "label": "Elected officials index",
+    "section": "2.2.7"
+  },
+  {
+    "key": "v2x_liberal",
+    "label": "Liberal component index",
+    "section": "2.2.8"
+  },
+  {
+    "key": "v2xcl_rol",
+    "label": "Equality before the law and individual liberty index",
+    "section": "2.2.9"
+  },
+  {
+    "key": "v2x_jucon",
+    "label": "Judicial constraints on the executive index",
+    "section": "2.2.10"
+  },
+  {
+    "key": "v2xlg_legcon",
+    "label": "Legislative constraints on the executive index",
+    "section": "2.2.11"
+  },
+  {
+    "key": "v2x_partip",
+    "label": "Participatory component index",
+    "section": "2.2.12"
+  },
+  {
+    "key": "v2x_cspart",
+    "label": "Civil society participation index",
+    "section": "2.2.13"
+  },
+  {
+    "key": "v2xdd_dd",
+    "label": "Direct popular vote index",
+    "section": "2.2.14"
+  },
+  {
+    "key": "v2xel_locelec",
+    "label": "Local government index",
+    "section": "2.2.15"
+  },
+  {
+    "key": "v2xel_regelec",
+    "label": "Regional government index",
+    "section": "2.2.16"
+  },
+  {
+    "key": "v2xdl_delib",
+    "label": "Deliberative component index",
+    "section": "2.2.17"
+  },
+  {
+    "key": "v2x_egal",
+    "label": "Egalitarian component index",
+    "section": "2.2.18"
+  },
+  {
+    "key": "v2xeg_eqprotec",
+    "label": "Equal protection index",
+    "section": "2.2.19"
+  },
+  {
+    "key": "v2xeg_eqaccess",
+    "label": "Equal access index",
+    "section": "2.2.20"
+  },
+  {
+    "key": "v2xeg_eqdr",
+    "label": "Equal distribution of resources index",
+    "section": "2.2.21"
+  }
+]
